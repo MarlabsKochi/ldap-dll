@@ -1,5 +1,10 @@
+# name: ldap-dll
+# about: Uses omniauth-ldap gem for ladp login from local login UI
+# version: 1.0.0
+# authors: Jijo Thomas(jijo1198), marlabskochi
+# url: https://github.com/MarlabsKochi/ldap-dll
 
-register_asset 'javascripts/simple.js'
+register_asset 'javascripts/login-ui.js'
 
 after_initialize do
   require_dependency File.expand_path('../lib/omniauth/stratergies/ldap.rb', __FILE__)
