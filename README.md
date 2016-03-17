@@ -1,5 +1,5 @@
 # ldap-dll
-This discourse plugin allows you to use Local login UI for LDAP authentication.It is just using discourse default sign in button for ldap authentication.This plugin is very useful when application is not require any local authentication and it is vary easy to use also. 
+This discourse plugin allows you to use Local login UI for LDAP authentication. It is using discourse default sign in button for ldap authentication. This plugin is very useful when the application does not require any local authentication. 
 
 ####Steps
 
